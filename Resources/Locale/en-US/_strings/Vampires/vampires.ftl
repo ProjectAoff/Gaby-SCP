@@ -67,7 +67,7 @@ vampire-power-thermalvision-description = Toggle thermal vision, allowing you to
 vampire-thermal-vision-on = You activate your thermal vision
 vampire-thermal-vision-off = You deactivate your thermal vision
 
-#Passives
+# Passives
 vampire-passive-unholystrength = Unholy Strength
 vampire-passive-unholystrength-description = Infuse your upper body muscles with essence, granting you claws and increased strength. Effect: 10 Slash per hit
 
