@@ -1,5 +1,5 @@
-alert-level-scp-announcement = 
-    Atenção! Nível de ameaça definido para "{ $name }"!
+alert-level-scp-announcement =
+    Atenção! O nível de alerta do sitio foi alterado para "{ $name }"!
     { $announcement }
 go-to-bunker-instruction = O pessoal deve interromper imediatamente o trabalho e dirigir-se para o bunker seguro mais próximo.
 alert-level-scpUnknown = Desconhecido
@@ -8,8 +8,8 @@ alert-level-scpNone = Ausente
 alert-level-scpNone-announcement = Não há ameaças neste momento. É seguro retornar aos seus locais de trabalho.
 alert-level-scpNone-instructions = Faça o seu trabalho.
 alert-level-scpGreen = Verde
-alert-level-scpGreen-announcement = Segundo alguns relatos, o complexo contém algum tipo de ameaça biológica, infecção, fonte de infecção, arma biológica ou reações químicas anômalas. O pessoal deverá seguir as instruções do Serviço Médico e de outro pessoal autorizado.
-alert-level-scpGreen-instructions = O pessoal é instruído a evitar contato com quaisquer fontes de contaminação. Não saia da Zona Segura e esteja preparado para a quarentena. Ouça as instruções do Serviço Médicos e de outro pessoal autorizado. Use equipamento de proteção individual.
+alert-level-scpGreen-announcement = Segundo alguns relatos, o complexo contém algum tipo de ameaça biológica, infecção ou fonte de infecção, arma biológica ou reações químicas anômalas. O pessoal deverá seguir as instruções do Departamento Médico e de outro pessoal autorizado.
+alert-level-scpGreen-instructions = O pessoal é instruído a evitar contato com quaisquer fontes de contaminação ou pessoal infectado além do necessário para solicitar a evacuação. Não saia da Zona. Esteja preparado para a quarentena. Ouça as instruções dos Serviços Médicos e de outro pessoal autorizado. Use equipamento de proteção individual.
 alert-level-scpBlue = Azul
 alert-level-scpBlue-announcement = Há uma ameaça desconhecida no complexo. O Serviço de Segurança está autorizado a realizar buscas e revistas aleatórias. { alert-level-scpBlue-instructions }
 alert-level-scpBlue-instructions = O pessoal deve ter cautela e relatar qualquer atividade ou evento suspeito.
