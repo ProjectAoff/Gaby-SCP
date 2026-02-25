@@ -427,29 +427,6 @@
     - buzzes
 
 - type: emote
-  id: Weh
-  name: chat-emote-name-weh
-  category: Vocal
-  icon: Interface/Emotes/weh.png
-  chatMessages: ["chat-emote-msg-weh"]
-  whitelist:
-    tags:
-    - ReptilianEmotes # Goob - restrict wehs to the OG lizz
-  blacklist:
-    tags:
-    - SiliconEmotes
-  chatTriggers: # Floof - you can weh now
-    - weh
-    - wehs
-
-- type: emote
-  id: Hew
-  name: chat-emote-name-hew
-  category: Vocal
-  icon: Interface/Emotes/hew.png
-  chatMessages: ["chat-emote-msg-hew"]
-
-- type: emote
   id: Chirp
   name: chat-emote-name-chirp
   category: Vocal
